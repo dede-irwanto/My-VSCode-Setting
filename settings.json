@@ -1,0 +1,21 @@
+{
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "php.suggest.basic": false,
+    "editor.fontFamily": "'Fira Code', Consolas, 'Courier New', monospace",
+    "editor.lineHeight": 40,
+    "editor.minimap.enabled": false,
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Visual Studio Dark - C++",
+    "workbench.startupEditor": "none",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.formatOnSave": true,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDelete": false
+}
